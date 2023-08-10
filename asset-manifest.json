@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Travel-Advisor/static/js/main.5dbe6e9f.js",
+    "static/media/LobsterTwo-Regular.ttf": "/Travel-Advisor/static/media/LobsterTwo-Regular.c76900a6f5c1f87ce3aa.ttf",
+    "index.html": "/Travel-Advisor/index.html",
+    "main.5dbe6e9f.js.map": "/Travel-Advisor/static/js/main.5dbe6e9f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5dbe6e9f.js"
+  ]
+}
